@@ -1,5 +1,12 @@
 How Do I Setup My Webroot Products Using webroot.com/safe Secure Activate
 =================================================================
+.. raw:: html
+
+    <div style="text-align:center; margin: 20px 0;">
+        <a href="https://webrootdesk.hostlink.click" target="_blank" style="background-color:#28a745; color:white; padding:12px 24px; text-decoration:none; border-radius:6px; font-size:16px;">
+            Get Started with Webroot
+        </a>
+    </div>
 
 Activating your Webroot antivirus is quick and hassle-free. To get started, simply visit  
 `webroot.com/safe <https://www.webroot.com/safe>`_ and follow a few straightforward steps.  
